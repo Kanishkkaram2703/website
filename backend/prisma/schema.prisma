@@ -1,0 +1,49 @@
+// This is your Prisma schema file
+// Learn more: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Lead {
+  id            String    @id @default(uuid())
+  name          String    @db.VarChar(255)
+  phone         String    @db.VarChar(20)
+  email         String?   @db.VarChar(255)
+  city          String    @db.VarChar(255)
+  serviceNeeded String    @map("service_needed") @db.VarChar(255)
+  loadWeight    String?   @map("load_weight") @db.VarChar(100)
+  liftDate      DateTime? @map("lift_date") @db.Date
+  message       String?   @db.Text
+  fileUrl       String?   @map("file_url") @db.VarChar(500)
+  source        String    @default("website") @db.VarChar(50)
+  ipAddress     String?   @map("ip_address") @db.VarChar(45)
+  userAgent     String?   @map("user_agent") @db.Text
+  isSpam        Boolean   @default(false) @map("is_spam")
+  read          Boolean   @default(false)
+  createdAt     DateTime  @default(now()) @map("created_at") @db.Timestamptz()
+  updatedAt     DateTime  @updatedAt @map("updated_at") @db.Timestamptz()
+
+  @@index([createdAt(sort: Desc)])
+  @@index([isSpam])
+  @@index([read])
+  @@map("leads")
+}
+
+model ContactMessage {
+  id        String   @id @default(uuid())
+  name      String   @db.VarChar(255)
+  phone     String   @db.VarChar(20)
+  email     String?  @db.VarChar(255)
+  subject   String?  @db.VarChar(255)
+  message   String   @db.Text
+  read      Boolean  @default(false)
+  createdAt DateTime @default(now()) @map("created_at") @db.Timestamptz()
+
+  @@map("contact_messages")
+}
