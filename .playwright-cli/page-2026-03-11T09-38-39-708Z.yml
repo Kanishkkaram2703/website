@@ -1,0 +1,594 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - link "+91-98765-43210" [ref=e6] [cursor=pointer]:
+          - /url: tel:+91-98765-43210
+          - img [ref=e7]
+          - text: +91-98765-43210
+        - link "info@shivohamcrane.com" [ref=e9] [cursor=pointer]:
+          - /url: mailto:info@shivohamcrane.com
+      - generic [ref=e10]:
+        - generic [ref=e11]: Navi Mumbai | Pan-India Service
+        - link "WhatsApp Us" [ref=e12] [cursor=pointer]:
+          - /url: https://wa.me/919876543210?text=Hi%2C%20I%20am%20interested%20in%20crane%20services%20from%20Shivoham%20Crane%20Services.%20Please%20share%20details.
+    - navigation [ref=e14]:
+      - link "Home" [ref=e15] [cursor=pointer]:
+        - /url: /
+        - img "Shivoham Crane Services" [ref=e17]
+        - generic [ref=e18]:
+          - generic [ref=e19]: SHIVOHAM
+          - generic [ref=e20]: CRANE SERVICES
+      - generic [ref=e21]:
+        - link "Home" [ref=e22] [cursor=pointer]:
+          - /url: /
+        - link "About" [ref=e23] [cursor=pointer]:
+          - /url: /about
+        - link "Services" [ref=e24] [cursor=pointer]:
+          - /url: /services
+        - link "Fleet" [ref=e25] [cursor=pointer]:
+          - /url: /fleet
+        - link "Projects" [ref=e26] [cursor=pointer]:
+          - /url: /projects
+        - link "Industries" [ref=e27] [cursor=pointer]:
+          - /url: /industries
+        - link "Safety" [ref=e28] [cursor=pointer]:
+          - /url: /safety
+        - link "Contact" [ref=e29] [cursor=pointer]:
+          - /url: /contact
+      - link "Get Quote" [ref=e31] [cursor=pointer]:
+        - /url: /contact#quote-form
+        - text: Get Quote
+        - img [ref=e32]
+  - main [ref=e34]:
+    - region "Shivoham Crane Services - Cinematic hero showcase" [ref=e689]:
+      - generic [ref=e691]:
+        - generic:
+          - generic:
+            - generic:
+              - heading "SHIVOHAM" [level=1]: SHIVOHAM
+              - paragraph: CRANE SERVICES
+        - generic:
+          - generic:
+            - generic:
+              - paragraph: Navi Mumbai-based. Pan-India deployment.
+        - generic:
+          - generic:
+            - generic:
+              - paragraph: Safety-first lifts. On-time execution.
+        - generic:
+          - generic:
+            - generic:
+              - paragraph: Need a crane on-site? Get a quote in minutes.
+              - generic [ref=e693]:
+                - link [ref=e694] [cursor=pointer]:
+                  - /url: /contact#quote-form
+                  - text: Get Quote
+                  - img [ref=e695]
+                - link [ref=e697] [cursor=pointer]:
+                  - /url: https://wa.me/919876543210?text=Hi%2C%20I%20am%20interested%20in%20crane%20services%20from%20Shivoham%20Crane%20Services.%20Please%20share%20details.
+                  - img [ref=e698]
+                  - text: WhatsApp
+        - generic:
+          - generic:
+            - generic:
+              - img
+            - heading [level=2]: SHIVOHAM
+            - paragraph: CRANE SERVICES
+        - generic [ref=e702]: Scroll
+    - generic [ref=e706]:
+      - img "Shivoham Crane Services Logo" [ref=e713]
+      - heading "SHIVOHAM" [level=2] [ref=e714]
+      - paragraph [ref=e715]: CRANE SERVICES
+    - generic [ref=e38]:
+      - generic [ref=e39]:
+        - img [ref=e41]
+        - generic [ref=e43]:
+          - paragraph [ref=e44]: Safety First
+          - paragraph [ref=e45]: Zero-incident focus
+      - generic [ref=e46]:
+        - img [ref=e48]
+        - generic [ref=e51]:
+          - paragraph [ref=e52]: 24/7 Available
+          - paragraph [ref=e53]: Emergency response
+      - generic [ref=e54]:
+        - img [ref=e56]
+        - generic [ref=e59]:
+          - paragraph [ref=e60]: 15+ Years
+          - paragraph [ref=e61]: Industry experience
+      - generic [ref=e62]:
+        - img [ref=e64]
+        - generic [ref=e67]:
+          - paragraph [ref=e68]: Pan-India
+          - paragraph [ref=e69]: Nationwide service
+      - generic [ref=e70]:
+        - img [ref=e72]
+        - generic [ref=e77]:
+          - paragraph [ref=e78]: 500+ Projects
+          - paragraph [ref=e79]: Successfully completed
+      - generic [ref=e80]:
+        - img [ref=e82]
+        - generic [ref=e84]:
+          - paragraph [ref=e85]: Well-Maintained
+          - paragraph [ref=e86]: Inspected fleet
+    - generic [ref=e88]:
+      - generic [ref=e89]:
+        - text: What We Offer
+        - heading "Our Crane & Lifting Services" [level=2] [ref=e90]
+        - paragraph [ref=e91]: From mobile crane rental to emergency night lifts, we provide comprehensive lifting solutions for every industry and project scale.
+      - generic [ref=e92]:
+        - link "Mobile Crane Rental Versatile mobile cranes available for short-term and long-term rentals across India. Learn More" [ref=e94] [cursor=pointer]:
+          - /url: /services/mobile-crane-rental
+          - img [ref=e96]
+          - heading "Mobile Crane Rental" [level=3] [ref=e101]
+          - paragraph [ref=e102]: Versatile mobile cranes available for short-term and long-term rentals across India.
+          - generic [ref=e103]:
+            - text: Learn More
+            - img [ref=e104]
+        - link "Hydra Crane Rental Compact and powerful hydra cranes ideal for urban sites and tight-access areas. Learn More" [ref=e107] [cursor=pointer]:
+          - /url: /services/hydra-crane-rental
+          - img [ref=e109]
+          - heading "Hydra Crane Rental" [level=3] [ref=e114]
+          - paragraph [ref=e115]: Compact and powerful hydra cranes ideal for urban sites and tight-access areas.
+          - generic [ref=e116]:
+            - text: Learn More
+            - img [ref=e117]
+        - link "Heavy Lifting Engineered heavy lifting solutions for complex industrial and infrastructure projects. Learn More" [ref=e120] [cursor=pointer]:
+          - /url: /services/heavy-lifting
+          - img [ref=e122]
+          - heading "Heavy Lifting" [level=3] [ref=e127]
+          - paragraph [ref=e128]: Engineered heavy lifting solutions for complex industrial and infrastructure projects.
+          - generic [ref=e129]:
+            - text: Learn More
+            - img [ref=e130]
+        - link "Machinery Shifting Safe and efficient relocation of industrial machinery, equipment, and production lines. Learn More" [ref=e133] [cursor=pointer]:
+          - /url: /services/machinery-shifting
+          - img [ref=e135]
+          - heading "Machinery Shifting" [level=3] [ref=e146]
+          - paragraph [ref=e147]: Safe and efficient relocation of industrial machinery, equipment, and production lines.
+          - generic [ref=e148]:
+            - text: Learn More
+            - img [ref=e149]
+        - link "Erection & Dismantling Steel structure erection and dismantling services for industrial and commercial projects. Learn More" [ref=e152] [cursor=pointer]:
+          - /url: /services/erection-dismantling
+          - img [ref=e154]
+          - heading "Erection & Dismantling" [level=3] [ref=e158]
+          - paragraph [ref=e159]: Steel structure erection and dismantling services for industrial and commercial projects.
+          - generic [ref=e160]:
+            - text: Learn More
+            - img [ref=e161]
+        - link "Industrial Lifting Specialized lifting for refineries, power plants, cement factories, and steel mills. Learn More" [ref=e164] [cursor=pointer]:
+          - /url: /services/industrial-lifting
+          - img [ref=e166]
+          - heading "Industrial Lifting" [level=3] [ref=e168]
+          - paragraph [ref=e169]: Specialized lifting for refineries, power plants, cement factories, and steel mills.
+          - generic [ref=e170]:
+            - text: Learn More
+            - img [ref=e171]
+        - link "Plant Maintenance Lifts On-demand crane support for scheduled and unscheduled plant maintenance activities. Learn More" [ref=e174] [cursor=pointer]:
+          - /url: /services/plant-maintenance-lifts
+          - img [ref=e176]
+          - heading "Plant Maintenance Lifts" [level=3] [ref=e178]
+          - paragraph [ref=e179]: On-demand crane support for scheduled and unscheduled plant maintenance activities.
+          - generic [ref=e180]:
+            - text: Learn More
+            - img [ref=e181]
+        - link "Emergency / Night Lifts 24/7 emergency crane services with night operations capability for urgent requirements. Learn More" [ref=e184] [cursor=pointer]:
+          - /url: /services/emergency-night-lifts
+          - img [ref=e186]
+          - heading "Emergency / Night Lifts" [level=3] [ref=e189]
+          - paragraph [ref=e190]: 24/7 emergency crane services with night operations capability for urgent requirements.
+          - generic [ref=e191]:
+            - text: Learn More
+            - img [ref=e192]
+      - link "View All Services" [ref=e195] [cursor=pointer]:
+        - /url: /services
+        - text: View All Services
+        - img [ref=e196]
+    - generic [ref=e199]:
+      - generic [ref=e201]:
+        - generic [ref=e202]:
+          - text: Our Fleet
+          - heading "Modern, Well-Maintained Equipment" [level=2] [ref=e203]
+          - paragraph [ref=e204]: Our fleet ranges from 10T to 250T+ cranes, regularly inspected and certified for peak performance.
+        - link "View Full Fleet" [ref=e205] [cursor=pointer]:
+          - /url: /fleet
+          - text: View Full Fleet
+          - img [ref=e206]
+      - generic [ref=e208]:
+        - 'link "Hydra Crane 20T 20 Ton Hydra Crane 20T Boom: 20m Type: Hydra Crane Compact 20-ton hydra crane ideal for flexible lifting, yard movement, and day-to-day industrial operations." [ref=e210] [cursor=pointer]':
+          - /url: /fleet/hydra-crane-20t
+          - generic [ref=e211]:
+            - img "Hydra Crane 20T" [ref=e212]
+            - generic [ref=e213]: 20 Ton
+          - generic [ref=e214]:
+            - heading "Hydra Crane 20T" [level=3] [ref=e215]
+            - generic [ref=e216]:
+              - generic [ref=e217]: "Boom: 20m"
+              - generic [ref=e218]: "Type: Hydra Crane"
+            - paragraph [ref=e219]: Compact 20-ton hydra crane ideal for flexible lifting, yard movement, and day-to-day industrial operations.
+        - 'link "Hydraulic Truck Crane 80 Ton Hydraulic Truck Crane Boom: 45m Type: Hydraulic Truck Crane Heavy-duty hydraulic truck crane designed for efficient road mobility and high-capacity lifting operations." [ref=e221] [cursor=pointer]':
+          - /url: /fleet/hydraulic-truck-crane
+          - generic [ref=e222]:
+            - img "Hydraulic Truck Crane" [ref=e223]
+            - generic [ref=e224]: 80 Ton
+          - generic [ref=e225]:
+            - heading "Hydraulic Truck Crane" [level=3] [ref=e226]
+            - generic [ref=e227]:
+              - generic [ref=e228]: "Boom: 45m"
+              - generic [ref=e229]: "Type: Hydraulic Truck Crane"
+            - paragraph [ref=e230]: Heavy-duty hydraulic truck crane designed for efficient road mobility and high-capacity lifting operations.
+        - 'link "Lattice Boom Truck Crane 100 Ton Lattice Boom Truck Crane Boom: 48m Type: Lattice Boom Truck Crane Strong lattice boom truck crane suitable for structural lifting, infrastructure jobs, and demanding site work." [ref=e232] [cursor=pointer]':
+          - /url: /fleet/lattice-boom-truck-crane
+          - generic [ref=e233]:
+            - img "Lattice Boom Truck Crane" [ref=e234]
+            - generic [ref=e235]: 100 Ton
+          - generic [ref=e236]:
+            - heading "Lattice Boom Truck Crane" [level=3] [ref=e237]
+            - generic [ref=e238]:
+              - generic [ref=e239]: "Boom: 48m"
+              - generic [ref=e240]: "Type: Lattice Boom Truck Crane"
+            - paragraph [ref=e241]: Strong lattice boom truck crane suitable for structural lifting, infrastructure jobs, and demanding site work.
+    - generic [ref=e245]:
+      - generic [ref=e246]:
+        - text: Industries We Serve
+        - heading "Trusted Across Every Major Industry" [level=2] [ref=e247]
+        - paragraph [ref=e248]: From oil refineries to high-rise construction, our cranes power India's biggest projects.
+      - generic [ref=e249]:
+        - generic [ref=e251]:
+          - img [ref=e253]
+          - heading "Construction & Infrastructure" [level=3] [ref=e257]
+          - paragraph [ref=e258]: High-rise buildings, bridges, metro projects, highways, and commercial complexes.
+        - generic [ref=e260]:
+          - img [ref=e262]
+          - heading "Oil & Gas / Petrochemical" [level=3] [ref=e264]
+          - paragraph [ref=e265]: Refineries, gas processing plants, pipeline installations, and offshore support.
+        - generic [ref=e267]:
+          - img [ref=e269]
+          - heading "Power & Energy" [level=3] [ref=e271]
+          - paragraph [ref=e272]: Thermal plants, wind farms, solar installations, and substation construction.
+        - generic [ref=e274]:
+          - img [ref=e276]
+          - heading "Manufacturing & Factories" [level=3] [ref=e278]
+          - paragraph [ref=e279]: Machine installation, production line setup, and factory relocation services.
+        - generic [ref=e281]:
+          - img [ref=e283]
+          - heading "Steel & Cement" [level=3] [ref=e288]
+          - paragraph [ref=e289]: Steel mills, cement plants, kiln maintenance, and structural installations.
+        - generic [ref=e291]:
+          - img [ref=e293]
+          - heading "Shipping & Ports" [level=3] [ref=e297]
+          - paragraph [ref=e298]: Port handling, ship loading/unloading, container shifting, and dock maintenance.
+        - generic [ref=e300]:
+          - img [ref=e302]
+          - heading "Telecommunications" [level=3] [ref=e308]
+          - paragraph [ref=e309]: Tower erection, antenna installation, and telecom infrastructure projects.
+        - generic [ref=e311]:
+          - img [ref=e313]
+          - heading "Events & Entertainment" [level=3] [ref=e317]
+          - paragraph [ref=e318]: Stage construction, lighting rig lifts, and temporary structure installation.
+      - link "Explore All Industries" [ref=e320] [cursor=pointer]:
+        - /url: /industries
+        - text: Explore All Industries
+        - img [ref=e321]
+    - generic [ref=e324]:
+      - generic [ref=e325]:
+        - text: Why Shivoham
+        - heading "Why Choose Us for Your Project" [level=2] [ref=e326]
+        - paragraph [ref=e327]: When safety, reliability, and performance matter, top contractors and industries trust Shivoham Crane Services.
+      - generic [ref=e328]:
+        - generic [ref=e330]:
+          - img [ref=e332]
+          - generic [ref=e334]:
+            - heading "Safety-First Approach" [level=3] [ref=e335]
+            - paragraph [ref=e336]: Every lift is backed by certified risk assessments, toolbox talks, and strict compliance with IS standards.
+        - generic [ref=e338]:
+          - img [ref=e340]
+          - generic [ref=e345]:
+            - heading "Trained Operators" [level=3] [ref=e346]
+            - paragraph [ref=e347]: Our operators hold valid licenses, undergo regular training, and have years of field experience.
+        - generic [ref=e349]:
+          - img [ref=e351]
+          - generic [ref=e353]:
+            - heading "Well-Maintained Fleet" [level=3] [ref=e354]
+            - paragraph [ref=e355]: All cranes are regularly serviced, load-tested, and certified by third-party inspectors.
+        - generic [ref=e357]:
+          - img [ref=e359]
+          - generic [ref=e362]:
+            - heading "On-Time Delivery" [level=3] [ref=e363]
+            - paragraph [ref=e364]: We commit to timelines. Rapid mobilization and zero delays are our promise on every project.
+        - generic [ref=e366]:
+          - img [ref=e368]
+          - generic [ref=e371]:
+            - heading "Pan-India Coverage" [level=3] [ref=e372]
+            - paragraph [ref=e373]: Based in Navi Mumbai, we serve clients across Maharashtra, Gujarat, Delhi NCR, and beyond.
+        - generic [ref=e375]:
+          - img [ref=e377]
+          - generic [ref=e381]:
+            - heading "Site Visit & Planning" [level=3] [ref=e382]
+            - paragraph [ref=e383]: Detailed site surveys, load calculations, and lift plans prepared before every critical operation.
+      - generic [ref=e385]:
+        - generic [ref=e386]:
+          - paragraph [ref=e387]: 500+
+          - paragraph [ref=e388]: Projects Completed
+        - generic [ref=e389]:
+          - paragraph [ref=e390]: 15+
+          - paragraph [ref=e391]: Years Experience
+        - generic [ref=e392]:
+          - paragraph [ref=e393]: 100+
+          - paragraph [ref=e394]: Cranes in Fleet
+        - generic [ref=e395]:
+          - paragraph [ref=e396]: 24/7
+          - paragraph [ref=e397]: Emergency Service
+    - generic [ref=e399]:
+      - generic [ref=e401]:
+        - generic [ref=e402]:
+          - text: Our Work
+          - heading "Featured Projects" [level=2] [ref=e403]
+          - paragraph [ref=e404]: A glimpse of the high-profile projects we have executed with precision across India.
+        - link "View All Projects" [ref=e405] [cursor=pointer]:
+          - /url: /projects
+          - text: View All Projects
+          - img [ref=e406]
+      - generic [ref=e408]:
+        - generic [ref=e410]:
+          - generic [ref=e411]:
+            - img "Mumbai Metro Station Steel Erection" [ref=e412]
+            - generic [ref=e413]: Erection & Dismantling
+            - generic [ref=e414]: 150T
+          - generic [ref=e415]:
+            - heading "Mumbai Metro Station Steel Erection" [level=3] [ref=e416]
+            - generic [ref=e417]:
+              - img [ref=e418]
+              - text: Navi Mumbai, Maharashtra
+            - paragraph [ref=e421]: Structural steel erection for a Mumbai Metro station using our 100T and 250T cranes.
+        - generic [ref=e423]:
+          - generic [ref=e424]:
+            - img "Reliance Refinery Shutdown" [ref=e425]
+            - generic [ref=e426]: Industrial Lifting
+            - generic [ref=e427]: 200T
+          - generic [ref=e428]:
+            - heading "Reliance Refinery Shutdown" [level=3] [ref=e429]
+            - generic [ref=e430]:
+              - img [ref=e431]
+              - text: Jamnagar, Gujarat
+            - paragraph [ref=e434]: Critical reactor vessel replacement during annual shutdown at Reliance Refinery.
+        - generic [ref=e436]:
+          - generic [ref=e437]:
+            - img "Tata Steel Plant Maintenance" [ref=e438]
+            - generic [ref=e439]: Plant Maintenance Lifts
+            - generic [ref=e440]: 80T
+          - generic [ref=e441]:
+            - heading "Tata Steel Plant Maintenance" [level=3] [ref=e442]
+            - generic [ref=e443]:
+              - img [ref=e444]
+              - text: Jamshedpur, Jharkhand
+            - paragraph [ref=e447]: Quarterly crane support for heavy equipment maintenance at Tata Steel.
+    - generic [ref=e449]:
+      - generic [ref=e450]:
+        - text: Client Testimonials
+        - heading "What Our Clients Say" [level=2] [ref=e451]
+        - paragraph [ref=e452]: Trusted by leading contractors, EPC companies, and industrial plants across India.
+      - generic [ref=e453]:
+        - generic [ref=e455]:
+          - img [ref=e456]
+          - generic [ref=e459]:
+            - img [ref=e460]
+            - img [ref=e462]
+            - img [ref=e464]
+            - img [ref=e466]
+            - img [ref=e468]
+          - paragraph [ref=e470]: “Shivoham Crane Services delivered flawless lifting operations for our Mumbai Metro project. Their safety record and professionalism are unmatched.”
+          - generic [ref=e471]:
+            - generic [ref=e472]: V
+            - generic [ref=e473]:
+              - paragraph [ref=e474]: Vikram Patel
+              - paragraph [ref=e475]: Project Manager, L&T Construction
+        - generic [ref=e477]:
+          - img [ref=e478]
+          - generic [ref=e481]:
+            - img [ref=e482]
+            - img [ref=e484]
+            - img [ref=e486]
+            - img [ref=e488]
+            - img [ref=e490]
+          - paragraph [ref=e492]: “We have been using Shivoham for our annual shutdown lifting needs for 3 years. Reliable, on-time, and safety-first approach every single time.”
+          - generic [ref=e493]:
+            - generic [ref=e494]: A
+            - generic [ref=e495]:
+              - paragraph [ref=e496]: Anita Deshmukh
+              - paragraph [ref=e497]: Plant Head, Tata Chemicals
+        - generic [ref=e499]:
+          - img [ref=e500]
+          - generic [ref=e503]:
+            - img [ref=e504]
+            - img [ref=e506]
+            - img [ref=e508]
+            - img [ref=e510]
+            - img [ref=e512]
+          - paragraph [ref=e514]: “Their fleet is well-maintained and operators are highly skilled. Shivoham is our go-to crane partner for all our construction projects across Maharashtra.”
+          - generic [ref=e515]:
+            - generic [ref=e516]: R
+            - generic [ref=e517]:
+              - paragraph [ref=e518]: Rajan Mehta
+              - paragraph [ref=e519]: Director, Mehta Infra Pvt Ltd
+        - generic [ref=e521]:
+          - img [ref=e522]
+          - generic [ref=e525]:
+            - img [ref=e526]
+            - img [ref=e528]
+            - img [ref=e530]
+            - img [ref=e532]
+            - img [ref=e534]
+          - paragraph [ref=e536]: “During an emergency reactor lift, Shivoham mobilized a 100T crane to our site in under 6 hours. Exceptional response and execution.”
+          - generic [ref=e537]:
+            - generic [ref=e538]: S
+            - generic [ref=e539]:
+              - paragraph [ref=e540]: Suresh Nair
+              - paragraph [ref=e541]: Operations Head, HPCL Refinery
+    - generic [ref=e546]:
+      - heading "Need a Crane for Your Next Project?" [level=2] [ref=e547]
+      - paragraph [ref=e548]: Get a free, no-obligation quote within 2 hours. Our team will assess your requirements and recommend the right crane solution.
+      - generic [ref=e549]:
+        - link "Request a Quote" [ref=e550] [cursor=pointer]:
+          - /url: /contact#quote-form
+          - text: Request a Quote
+          - img [ref=e551]
+        - link "WhatsApp Us" [ref=e553] [cursor=pointer]:
+          - /url: https://wa.me/919876543210?text=Hi%2C%20I%20am%20interested%20in%20crane%20services%20from%20Shivoham%20Crane%20Services.%20Please%20share%20details.
+        - link "Call Now" [ref=e554] [cursor=pointer]:
+          - /url: tel:+91-98765-43210
+          - img [ref=e555]
+          - text: Call Now
+  - contentinfo [ref=e557]:
+    - generic [ref=e559]:
+      - generic [ref=e560]:
+        - heading "Ready to lift your project?" [level=3] [ref=e561]
+        - paragraph [ref=e562]: Get a free quote within 2 hours. Pan-India service available.
+      - generic [ref=e563]:
+        - link "Request Quote" [ref=e564] [cursor=pointer]:
+          - /url: /contact#quote-form
+          - text: Request Quote
+          - img [ref=e565]
+        - link "WhatsApp" [ref=e567] [cursor=pointer]:
+          - /url: https://wa.me/919876543210?text=Hi%2C%20I%20am%20interested%20in%20crane%20services%20from%20Shivoham%20Crane%20Services.%20Please%20share%20details.
+    - generic [ref=e569]:
+      - generic [ref=e570]:
+        - link "Shivoham Crane Services SHIVOHAM CRANE SERVICES" [ref=e571] [cursor=pointer]:
+          - /url: /
+          - img "Shivoham Crane Services" [ref=e573]
+          - generic [ref=e574]:
+            - generic [ref=e575]: SHIVOHAM
+            - generic [ref=e576]: CRANE SERVICES
+        - paragraph [ref=e577]: Professional crane rental and heavy lifting services based in Navi Mumbai, serving clients across India with safety, precision, and reliability.
+        - generic [ref=e578]:
+          - link "+91-98765-43210" [ref=e579] [cursor=pointer]:
+            - /url: tel:+91-98765-43210
+            - img [ref=e580]
+            - text: +91-98765-43210
+          - link "info@shivohamcrane.com" [ref=e582] [cursor=pointer]:
+            - /url: mailto:info@shivohamcrane.com
+            - img [ref=e583]
+            - text: info@shivohamcrane.com
+          - generic [ref=e586]:
+            - img [ref=e587]
+            - generic [ref=e590]: Navi Mumbai, Maharashtra, India
+      - generic [ref=e591]:
+        - heading "Quick Links" [level=4] [ref=e592]
+        - list [ref=e593]:
+          - listitem [ref=e594]:
+            - link "Home" [ref=e595] [cursor=pointer]:
+              - /url: /
+              - img [ref=e596]
+              - text: Home
+          - listitem [ref=e598]:
+            - link "About" [ref=e599] [cursor=pointer]:
+              - /url: /about
+              - img [ref=e600]
+              - text: About
+          - listitem [ref=e602]:
+            - link "Services" [ref=e603] [cursor=pointer]:
+              - /url: /services
+              - img [ref=e604]
+              - text: Services
+          - listitem [ref=e606]:
+            - link "Fleet" [ref=e607] [cursor=pointer]:
+              - /url: /fleet
+              - img [ref=e608]
+              - text: Fleet
+          - listitem [ref=e610]:
+            - link "Projects" [ref=e611] [cursor=pointer]:
+              - /url: /projects
+              - img [ref=e612]
+              - text: Projects
+          - listitem [ref=e614]:
+            - link "Industries" [ref=e615] [cursor=pointer]:
+              - /url: /industries
+              - img [ref=e616]
+              - text: Industries
+          - listitem [ref=e618]:
+            - link "Safety" [ref=e619] [cursor=pointer]:
+              - /url: /safety
+              - img [ref=e620]
+              - text: Safety
+          - listitem [ref=e622]:
+            - link "Contact" [ref=e623] [cursor=pointer]:
+              - /url: /contact
+              - img [ref=e624]
+              - text: Contact
+      - generic [ref=e626]:
+        - heading "Our Services" [level=4] [ref=e627]
+        - list [ref=e628]:
+          - listitem [ref=e629]:
+            - link "Mobile Crane Rental" [ref=e630] [cursor=pointer]:
+              - /url: /services/mobile-crane-rental
+              - img [ref=e631]
+              - text: Mobile Crane Rental
+          - listitem [ref=e633]:
+            - link "Hydra Crane Rental" [ref=e634] [cursor=pointer]:
+              - /url: /services/hydra-crane-rental
+              - img [ref=e635]
+              - text: Hydra Crane Rental
+          - listitem [ref=e637]:
+            - link "Heavy Lifting" [ref=e638] [cursor=pointer]:
+              - /url: /services/heavy-lifting
+              - img [ref=e639]
+              - text: Heavy Lifting
+          - listitem [ref=e641]:
+            - link "Machinery Shifting" [ref=e642] [cursor=pointer]:
+              - /url: /services/machinery-shifting
+              - img [ref=e643]
+              - text: Machinery Shifting
+          - listitem [ref=e645]:
+            - link "Erection & Dismantling" [ref=e646] [cursor=pointer]:
+              - /url: /services/erection-dismantling
+              - img [ref=e647]
+              - text: Erection & Dismantling
+          - listitem [ref=e649]:
+            - link "Industrial Lifting" [ref=e650] [cursor=pointer]:
+              - /url: /services/industrial-lifting
+              - img [ref=e651]
+              - text: Industrial Lifting
+          - listitem [ref=e653]:
+            - link "Plant Maintenance Lifts" [ref=e654] [cursor=pointer]:
+              - /url: /services/plant-maintenance-lifts
+              - img [ref=e655]
+              - text: Plant Maintenance Lifts
+          - listitem [ref=e657]:
+            - link "Emergency / Night Lifts" [ref=e658] [cursor=pointer]:
+              - /url: /services/emergency-night-lifts
+              - img [ref=e659]
+              - text: Emergency / Night Lifts
+      - generic [ref=e661]:
+        - heading "Working Hours" [level=4] [ref=e662]
+        - generic [ref=e663]:
+          - generic [ref=e664]:
+            - generic [ref=e665]: Monday – Saturday
+            - generic [ref=e666]: 8:00 AM – 8:00 PM
+          - generic [ref=e667]:
+            - generic [ref=e668]: Sunday
+            - generic [ref=e669]: On-call only
+          - generic [ref=e670]:
+            - generic [ref=e671]: Emergency
+            - generic [ref=e672]: 24/7 Available
+        - generic [ref=e673]:
+          - heading "Service Areas" [level=4] [ref=e674]
+          - generic [ref=e675]:
+            - generic [ref=e676]: Navi Mumbai
+            - generic [ref=e677]: Pune
+            - generic [ref=e678]: Delhi
+            - generic [ref=e679]: Gujarat
+            - generic [ref=e680]: Karnataka
+            - generic [ref=e681]: Pan-India
+    - generic [ref=e683]:
+      - paragraph [ref=e684]: © 2026 Shivoham Crane Services. All rights reserved.
+      - generic [ref=e685]:
+        - link "Safety Policy" [ref=e686] [cursor=pointer]:
+          - /url: /safety
+        - link "Privacy Policy" [ref=e687] [cursor=pointer]:
+          - /url: /contact
+        - link "Terms of Service" [ref=e688] [cursor=pointer]:
+          - /url: /contact
+  - button "Open chat assistant" [ref=e717] [cursor=pointer]:
+    - img "Shivoham assistant" [ref=e720]
+  - alert [ref=e722]
